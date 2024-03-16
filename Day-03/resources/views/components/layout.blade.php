@@ -9,9 +9,8 @@
 </head>
 <body>
     <nav>
-        <a href="/">Home</a>
-        <a href="/about">About</a>
-        <a href="/contact">Contact</a>
+        <x-nav-link>Home</x-nav-link>
+
     </nav>
 {{ $slot }}
 </body>
