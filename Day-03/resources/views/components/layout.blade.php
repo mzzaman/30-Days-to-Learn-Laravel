@@ -10,7 +10,6 @@
 <body>
     <nav>
         <x-nav-link>Home</x-nav-link>
-
     </nav>
 {{ $slot }}
 </body>
